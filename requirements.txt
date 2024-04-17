@@ -1,0 +1,4 @@
+wrds==3.2.0
+pandas==2.2.0
+numpy==1.26.3
+psycopg2==2.9.9
